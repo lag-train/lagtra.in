@@ -3,13 +3,13 @@ Hash: SHA512
 
 This message was signed with fingerprint: 0163 BBEE A6EB 65CF 9196  A310 1441 B8C5 83A7 5765 at https://lagtra.in/pgp.txt
 
-breached:	http://breached.co/User-Lagtrain
-e-mail:	@lagtra.in | lagtrain@riseup.net | lagtrain@hitler.rocks | lagtrainz@protonmail.com
-github:	https://github.com/lag-train/
+breached:  http://breached.co/User-Lagtrain
+e-mail:    @lagtra.in | lagtrain@riseup.net | lagtrain@hitler.rocks | lagtrainz@protonmail.com
+github:    https://github.com/lag-train/
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQBY7vuputlz5GWoxAUQbjFg6dXZQUCYn1jzwAKCRAUQbjFg6dX
-ZZBXAQDPzUsdA4jiViRPufnfYC9GrcmTroFRTJeo5nwkfwLcewD/VyAubMR58LRh
-a5i3qAadIs9Usp3p0LEVMdzB6NKRNg0=
-=efSO
+iHUEARYKAB0WIQQBY7vuputlz5GWoxAUQbjFg6dXZQUCYn1p9wAKCRAUQbjFg6dX
+ZdhpAPwOTYoaejlbqcW3oqgX+tS6+j5eT+muD4mannivzIs5ggD+KrcOJmqGAoOM
+e31GlOI9kkseQbrqZ37SMcmrZt53yww=
+=IhSc
 -----END PGP SIGNATURE-----
